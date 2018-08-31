@@ -1,0 +1,22 @@
+{
+  "id": "0108ade3-dc69-4d76-92bb-99a2609af479",
+  "name": "Events NAVApp",
+  "publisher": "SAIDI Yacine",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.12925.0",
+  "application": "11.0.22292.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
